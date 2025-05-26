@@ -2,8 +2,8 @@
 
 A traditonal Filipino Game made in Assembly.
 
-![Uploading {98CD8CE9-ED9A-4E4B-A417-770897186E2B}.png…]()
-![Uploading {DFD57963-AC9B-4398-84A7-EC19F3D38338}.png…]()
+![{3ADB1AAC-6D45-4C59-AA26-177AA1EFA0C4}](https://github.com/user-attachments/assets/0200b3b4-4869-4ad5-b6ee-36601de524dd)
+![{BFF10BC1-820F-4C88-A2E2-64108A93A21E}](https://github.com/user-attachments/assets/e5e9fe15-008e-4693-bfdc-5bb801c8fca6)
 
 ## Features
 
