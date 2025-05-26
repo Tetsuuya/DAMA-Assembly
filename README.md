@@ -3,7 +3,9 @@
 A traditonal Filipino Game made in Assembly.
 
 ![{3ADB1AAC-6D45-4C59-AA26-177AA1EFA0C4}](https://github.com/user-attachments/assets/0200b3b4-4869-4ad5-b6ee-36601de524dd)
-![{BFF10BC1-820F-4C88-A2E2-64108A93A21E}](https://github.com/user-attachments/assets/e5e9fe15-008e-4693-bfdc-5bb801c8fca6)
+
+![{06B4A11A-C21F-4056-B3D4-F56A0BF742F9}](https://github.com/user-attachments/assets/940de44c-05f9-4f6b-bc8a-2dc4252a1b4e)
+
 
 ## Features
 
