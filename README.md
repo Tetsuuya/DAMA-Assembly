@@ -20,5 +20,5 @@ A traditonal Filipino Game made in Assembly.
 1. Open Mars Assembly 
 2. Open the file 
 3. Click f3 to Assemble
-4. Clcik RUn
+4. Click RUn
 5. Play the Game 
